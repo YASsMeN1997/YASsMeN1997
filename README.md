@@ -22,7 +22,7 @@
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/yassmen-youssef-48439a166" target="_blank"><img src="https://img.shields.io/badge/-Yassmen%20Youssef-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="yassmenyoussef55@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Yassmen%20Youssef-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:yassmenyoussef55@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Yassmen%20Youssef-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=NumPy)
