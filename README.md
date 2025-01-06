@@ -14,7 +14,7 @@
 ### 👩‍🦰 About Me :
 
 - 🏢 I'm an AI and Machine Learning Engineer.
-- 👨‍💻 As an EECE student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As an EECE graduate, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with python, machine learning, and NLP, or anything related to Artificial Intelligence.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
